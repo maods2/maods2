@@ -62,12 +62,9 @@ I care about bridging academic ML and real-world systems.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Contribution Streak
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=maods2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maods2&layout=compact&theme=tokyonight"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=maods2&theme=tokyonight&hide_border=true)
 ---
 
 ## 🔥 Featured Projects
