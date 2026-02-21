@@ -1,7 +1,7 @@
 # Matheus Augusto
 
 Machine Learning Engineer @ Ford Motor Company<br>
-MSc in Computer Science (Computer Vision & ML)
+MSc in Computer Science (Computer Vision & ML)<br>
 Brazil 🇧🇷
 
 Building scalable, production-grade Machine Learning systems.
